@@ -1,0 +1,1 @@
+# iTextSharp.LGPLv2.Core.Patch
